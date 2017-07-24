@@ -1,0 +1,26 @@
+{
+  "name": "starting",
+  "version": "1.0.0",
+  "description": "first concepts",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/webpack-dev-server"
+  },
+  "author": "Douglas Ramalho",
+  "license": "ISC",
+  "dependencies": {
+    "baconjs": "^0.7.94",
+    "rx": "^4.1.0"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "json-loader": "^0.5.4",
+    "webpack": "^3.0.0",
+    "webpack-dev-server": "^2.5.0"
+  }
+}
