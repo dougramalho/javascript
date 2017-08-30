@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "baconjs": "^0.7.88"
+    "baconjs": "^0.7.88",
+    "rx": "^4.1.0"
   }
 }
